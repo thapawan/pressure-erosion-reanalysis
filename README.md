@@ -66,16 +66,17 @@ install.packages(c("tidyverse", "ggplot2", "scales"))
 
 # Run the analysis
 source("analysis_code.R")
-
+```
 ### Option 1: Python
-
+```python
 pip install pandas numpy matplotlib scipy
 python analysis_code.py
+```
 
 Buffon, P., Uijttewaal, W.S.J., Valero, D., & Franca, M.J. (2025). 
 Dataset underlying "Evolution of erosion and deposition induced by 
 an impinging jet to manage sediment". 4TU.ResearchData. 
 https://doi.org/10.4121/47f474f1-cdf5-470f-9121-0a290f327cae
 
-[Your Name]. (2026). Pressure-Erosion Reanalysis. GitHub. 
-https://github.com/[your-username]/pressure-erosion-reanalysis
+Thapa P. (2026). Pressure-Erosion Reanalysis. GitHub. 
+https://github.com/[thapawan]/pressure-erosion-reanalysis
